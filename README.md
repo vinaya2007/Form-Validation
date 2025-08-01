@@ -43,14 +43,13 @@ A clean and elegant **Contact Form** web app built with HTML, CSS, and JavaScrip
 
 ## 🚀 How to Use
 
-1. Clone the repository:
    ```bash
 1. Clone the repo:
 git clone https://github.com/vinaya2007/Form-Validation.git
 
 
 2. Navigate to the project folder:
-cd bookPad
+cd Form-Validation
 
 3. Open index.html in your browser.
 ```
